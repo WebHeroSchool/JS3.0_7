@@ -1,2 +1,2 @@
-const result = prompt('РљР°Рє С‚РµР±СЏ Р·РѕРІСѓС‚?');
-document.body.innerHTML = 'РџСЂРёРІРµС‚, ' + result + '!';
+const result = prompt('Как тебя зовут?');
+document.body.innerHTML = 'Привет, ' + result + '!';
